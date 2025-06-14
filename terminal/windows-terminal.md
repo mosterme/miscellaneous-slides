@@ -123,7 +123,7 @@ Windows Terminal will automatically create profiles for those distributions.
 
 ```javascript
 	{
-		"guid": "{58ad8b0c-3ef8-5f4d-bc6f-13e4c00f2530}",
+		"guid": "{58ad8b0c-3ef8-5f4d-bc6f-23e4c00f2530}",
 		"source": "Windows.Terminal.Wsl",
 		"name": "Debian",
 		"icon": "%USERPROFILE%\\Pictures\\Terminal\\debian.ico",
