@@ -88,7 +88,7 @@
 
 <div class="page"/>
 
-# evaluate different git workflows … Git Flow (enhaced)
+# evaluate different git workflows … Git Flow (enhanced)
 
 ![Git Flow (enhanced)](img/7_gitflow-enhanced.png)
 
