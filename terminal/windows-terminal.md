@@ -12,7 +12,7 @@ Upon installing the terminal, it will set PowerShell as your default profile.
 
 <div class="page"/>
 
-## Color schemes
+# Color schemes
 
 Windows Terminal already includes popular [color schemes](https://aka.ms/terminal-color-schemes)
 like [One Half](https://github.com/sonph/onehalf) or [Solarized](https://github.com/altercation/solarized).
@@ -50,7 +50,7 @@ Another example would be the beautiful [Nord](https://www.nordtheme.com/) theme.
 
 <div class="page"/>
 
-## Git Bash
+# Git Bash
 
 Friends don't let friends use the git bash shell on windows. No judgement.
 
@@ -73,7 +73,7 @@ If you want to be really fancy, you could look up [Powerline in PowerShell](http
 
 <div class="page"/>
 
-## Keybindings
+# Keybindings
 Windows Terminal offers familiar standard keybindings.
 
 key|function
@@ -93,7 +93,7 @@ key|function
 
 <div class="page"/>
 
-## SSH
+# SSH
 Windows 10 has a built-in SSH client that you can use in Windows Terminal.
 
 You can enter the ssh invocation directly into the "commandline" parameter.
@@ -114,7 +114,7 @@ See [Tutorial: SSH in Windows Terminal](https://docs.microsoft.com/en-us/windows
 
 <div class="page"/>
 
-## Windows Subsystem for Linux (WSL)
+# Windows Subsystem for Linux (WSL)
 If you have any [Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/windows/wsl/) distributions installed,
 
 Windows Terminal will automatically create profiles for those distributions.
@@ -133,14 +133,14 @@ Windows Terminal will automatically create profiles for those distributions.
 
 <div class="page"/>
 
-## Links
+# Links
 
-### YouTube
+## YouTube
 * [The new Windows Terminal](https://youtu.be/8gw0rXPMMPE)
 * [Windows Terminal: Building a better command line experience for developers](https://youtu.be/KMudkRcwjCw).
 * [Windows Terminal: The secret to command line happiness!](https://youtu.be/2dsnwlnNBzs)
 
-### Microsoft | Docs
+## Microsoft | Docs
 * Learn more about [Windows Terminal](https://aka.ms/terminal-documentation).
 * Learn more about [global settings](https://aka.ms/terminal-global-settings).
 * Learn more about [profiles](https://aka.ms/terminal-profile-settings).
@@ -149,6 +149,6 @@ Windows Terminal will automatically create profiles for those distributions.
 * Learn more about [selections](https://aka.ms/terminal-selection).
 * Learn more about [panes](https://aka.ms/terminal-panes).
 
-### GitHub
+## GitHub
 * [Windows Terminal](https://github.com/microsoft/terminal)
 * [Cascadia Code](https://github.com/microsoft/cascadia-code)
