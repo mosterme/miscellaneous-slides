@@ -109,7 +109,7 @@
 <table> 
 <tr><th align="left">Product type and release method</th><th align="left">Team size</th><th align="left">Collaboration maturity</th><th align="left">Applicable branch mode</th></tr>
 <tr><td>All (?) None (?)</td><td>Small</td><td>High</td><td>Trunk Based Development</td></tr>
-<tr><td>Products that support continuous deployment and release, such as Web portals or SaaS products.</td><td>Middle</td><td>Moderate</td><td>GitHub-Flow and TBD</td></tr>
+<tr><td>Products that support continuous deployment and release, such as Web applications or SaaS products.</td><td>Middle</td><td>Moderate</td><td>GitHub-Flow and TBD</td></tr>
 <tr><td>Products with a definite release window and a periodic version release cadence, such as iOS apps.</td><td>Middle</td><td>Moderate</td><td>Git-Flow and GitLab-Flow</td></tr>
 <tr><td>Products that are demanding for product quality and support continuous deployment and release, such as basic platform products.</td><td>Middle</td><td>Moderate</td><td>GitLab-Flow</td></tr>
 <tr><td>Products that are demanding for product quality and have a long maintenance cycle for released versions, such as 2B basic platform products. (e.g. the Linux Kernel)</td><td>Large</td><td>High</td><td>Git-Flow</td></tr>
