@@ -70,15 +70,15 @@
 
 <div class="page"/>
 
-# evaluate different git workflows … GitHub Flow
-
-![GitHub Flow](img/4_githubflow.png)
-
-<div class="page"/>
-
 # evaluate different git workflows … Git Flow
 
 ![Git Flow](img/5_gitflow.png)
+
+<div class="page"/>
+
+# evaluate different git workflows … GitHub Flow
+
+![GitHub Flow](img/4_githubflow.png)
 
 <div class="page"/>
 
@@ -104,6 +104,8 @@
 
 # [How to Select a Git Branch Mode?](https://www.alibabacloud.com/blog/how-to-select-a-git-branch-mode_597255)
 
+&#160;
+
 ## Considering Product Type and Release Method, Team Size, Collaboration Maturity:
 
 <table> 
@@ -112,7 +114,7 @@
 <tr><td>Products that support continuous deployment and release, such as Web applications or SaaS products.</td><td>Middle</td><td>Moderate</td><td>GitHub-Flow and TBD</td></tr>
 <tr><td>Products with a definite release window and a periodic version release cadence, such as iOS apps.</td><td>Middle</td><td>Moderate</td><td>Git-Flow and GitLab-Flow</td></tr>
 <tr><td>Products that are demanding for product quality and support continuous deployment and release, such as basic platform products.</td><td>Middle</td><td>Moderate</td><td>GitLab-Flow</td></tr>
-<tr><td>Products that are demanding for product quality and have a long maintenance cycle for released versions, such as 2B basic platform products. (e.g. the Linux Kernel)</td><td>Large</td><td>High</td><td>Git-Flow</td></tr>
+<tr><td>Products that are demanding for product quality and have a long maintenance cycle for released versions, such as 2B basic platform products.</td><td>Large</td><td>High</td><td>Git-Flow</td></tr>
 </table>
 
 &#160;
@@ -129,6 +131,8 @@
 
 # [GitLab Flow – Best Practices](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/)
 
+&#160;
+
 * Use feature branches, no direct commits on main.
 * Test all commits, not only the ones on main.
 * Run all the tests on all commits (have them run in parallel).
@@ -140,6 +144,8 @@
 * Everyone starts from main, and targets main.
 * Fix bugs in main first and release branches second.
 * Commit messages reflect intent.
+
+&#160;
 
 [What is GitLab Flow? | GitLab](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
 
@@ -171,9 +177,25 @@
 
 <div class="page"/>
 
+# Links
+
+&#160;
+
+* [How to Select a Git Branch Mode? | Alibaba Cloud Blog](https://www.alibabacloud.com/blog/how-to-select-a-git-branch-mode_597255)
+* [Trunk-Based Development: A Love & Hate Story | Medium](https://medium.com/comparethemarket/trunk-based-development-a-love-hate-story-be1587a13314)
+* [What is GitLab Flow? | GitLab](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
+* [What are GitLab Flow Best Practices? | GitLab](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/)
+* [GitLab Flow - Defined Set of Best Practices | lab.las3.de](https://lab.las3.de/gitlab/help/workflow/gitlab_flow.md)
+* [Improving Continuous Delivery with GitLab Flow | exawizards](https://techblog.exawizards.com/entry/2021/01/28/113812)
+
+&#160;
+
+<div class="page"/>
 
 # Thank you very much for your attention. Any questions?
 
 ![don't look at me!](img/idiocracy-3.png)
+
+&#160;
 
 <div class="page"/>
