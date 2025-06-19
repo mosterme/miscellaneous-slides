@@ -181,12 +181,14 @@
 
 &#160;
 
+* [A successful Git branching model | Vincent Driessen](https://nvie.com/posts/a-successful-git-branching-model/)
+* [Choosing the Right Git Branching Strategy | Medium](https://medium.com/@sreekanth.thummala/choosing-the-right-git-branching-strategy-a-comparative-analysis-f5e635443423)
+* [Comparing four branching workflows for Git | Medium](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
 * [How to Select a Git Branch Mode? | Alibaba Cloud Blog](https://www.alibabacloud.com/blog/how-to-select-a-git-branch-mode_597255)
-* [Trunk-Based Development: A Love & Hate Story | Medium](https://medium.com/comparethemarket/trunk-based-development-a-love-hate-story-be1587a13314)
-* [What is GitLab Flow? | GitLab](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/)
-* [What are GitLab Flow Best Practices? | GitLab](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/)
-* [GitLab Flow - Defined Set of Best Practices | lab.las3.de](https://lab.las3.de/gitlab/help/workflow/gitlab_flow.md)
 * [Improving Continuous Delivery with GitLab Flow | exawizards](https://techblog.exawizards.com/entry/2021/01/28/113812)
+* [Trunk-Based Development: A Love & Hate Story | Medium](https://medium.com/comparethemarket/trunk-based-development-a-love-hate-story-be1587a13314)
+* [What are GitLab Flow Best Practices? | GitLab](https://about.gitlab.com/topics/version-control/what-are-gitlab-flow-best-practices/)
+* [Write Better Commits, Build Better Projects | GitHub Blog](https://github.blog/developer-skills/github/write-better-commits-build-better-projects/)
 
 &#160;
 
