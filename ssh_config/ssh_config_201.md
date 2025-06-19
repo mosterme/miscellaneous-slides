@@ -1,6 +1,6 @@
 # SSH Config 201
 
-![SSH Config 201 - aliases, agents, identities and secrets](james-bond.png)
+![SSH Config 201 - aliases, agents, identities and secrets](images/james-bond.png)
 
 <div class="page"/>
 
@@ -114,13 +114,13 @@ debug1: Exit status 1
 4. (Developer) Ask approval for each new: application
 
 
-<img alt="Using Windows Hello" src="op-1-security.png" width="495" />
-<img alt="Use SSH agent" src="op-2-developer.png" width="495" />
+<img alt="Using Windows Hello" src="images/op-1-security.png" width="495" />
+<img alt="Use SSH agent" src="images/op-2-developer.png" width="495" />
 
 <div class="page"/>
 
 # 1Password SSH Keys
-![1Password SSH Keys](op-3-sshkeys.png)
+![1Password SSH Keys](images/op-3-sshkeys.png)
 
 <div class="page"/>
 

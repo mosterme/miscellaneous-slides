@@ -1,6 +1,6 @@
 # SSH Config 101
 
-![Keine gute Idee](keine-gute-idee.png)
+![Keine gute Idee](images/keine-gute-idee.png)
 
 <div class="page"/>
 
