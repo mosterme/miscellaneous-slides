@@ -1,3 +1,4 @@
+
 # git blt
 
 ![git blt](img/blts.jpg)
@@ -7,10 +8,10 @@
 # branches
 
 <pre>
-<span style="color:green">michael@random</span> <span style="color:orange">~/Projects/yoyodyne</span> <span style="color:teal">(development =)</span>
-<span style="color:purple">$</span> git branch
+<span class="green">michael@random</span> <span class="orange">~/Projects/yoyodyne</span> <span class="teal">(development =)</span>
+<span class="purple">$</span> git branch
 
-* <span style="color:green">development</span>
+* <span class="green">development</span>
   testing
   production
 </pre>
@@ -316,6 +317,8 @@ Thomas Müller &lt;thomas@example.com&gt;
 # mahlzeit
 
 <img src="img/stulle.jpg" width="1280"/>
+
+&#160;
 
 <style>
   body {font-size: 125%}
