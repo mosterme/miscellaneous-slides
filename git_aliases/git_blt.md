@@ -1,17 +1,3 @@
-<style>
-  body {font-size: 125%}
-  pre {color: #666}
-  .aqua {color: aqua}
-  .blue {color: RoyalBlue}
-  .green {color: green}
-  .lime {color: lime}
-  .orange {color: orange}
-  .purple {color: purple}
-  .red {color: red}
-  .teal {color: teal}
-  .yellow {color: gold}
-</style>
-
 # git blt
 
 ![git blt](img/blts.jpg)
@@ -21,10 +7,10 @@
 # branches
 
 <pre>
-<span class="green">michael@random</span> <span class="orange">~/Projects/yoyodyne</span> <span class="teal">(development =)</span>
-<span class="purple">$</span> git branch
+<span style="color:green">michael@random</span> <span style="color:orange">~/Projects/yoyodyne</span> <span style="color:teal">(development =)</span>
+<span style="color:purple">$</span> git branch
 
-* <span class="green">development</span>
+* <span style="color:green">development</span>
   testing
   production
 </pre>
@@ -330,3 +316,17 @@ Thomas Müller &lt;thomas@example.com&gt;
 # mahlzeit
 
 <img src="img/stulle.jpg" width="1280"/>
+
+<style>
+  body {font-size: 125%}
+  pre {color: #666}
+  .aqua {color: aqua}
+  .blue {color: RoyalBlue}
+  .green {color: green}
+  .lime {color: lime}
+  .orange {color: orange}
+  .purple {color: purple}
+  .red {color: red}
+  .teal {color: teal}
+  .yellow {color: gold}
+</style>
