@@ -318,18 +318,17 @@ Thomas Müller &lt;thomas@example.com&gt;
 
 <img src="img/stulle.jpg" width="1280"/>
 
-&#160;
-
 <style>
+  a {color: #46d}
   body {font-size: 125%}
   pre {color: #666}
   .aqua {color: aqua}
-  .blue {color: RoyalBlue}
+  .blue {color: #46d}
   .green {color: green}
   .lime {color: lime}
-  .orange {color: orange}
+  .orange {color: chocolate}
   .purple {color: purple}
   .red {color: red}
   .teal {color: teal}
-  .yellow {color: gold}
+  .yellow {color: orange}
 </style>
