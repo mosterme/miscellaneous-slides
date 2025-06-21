@@ -3,4 +3,4 @@
 
 @import "{{ site.theme }}";
 
-body > h1:first-of-type { display: none }
+.markdown-body>*:first-child { display: none }
