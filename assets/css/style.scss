@@ -3,4 +3,6 @@
 
 @import "{{ site.theme }}";
 
+@media print{@page {size: landscape}}
 .markdown-body>*:first-child { display: none }
+.page { page-break-after: always }
