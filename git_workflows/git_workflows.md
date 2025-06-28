@@ -199,5 +199,3 @@
 ![don't look at me!](img/idiocracy-3.png)
 
 &#160;
-
-<div class="page"/>
