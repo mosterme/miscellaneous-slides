@@ -50,7 +50,7 @@ pom.xml
 ```
  ```xml
 <properties>
-    <toolchain.jdk.version>[15,)</toolchain.jdk.version>
+    <toolchain.jdk.version>[25,)</toolchain.jdk.version>
 </properties>
  ```
  ```xml
