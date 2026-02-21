@@ -1,5 +1,7 @@
 # [Maven Toolchains Plugin](https://maven.apache.org/plugins/maven-toolchains-plugin/)
 
+&#160;
+
 ![The Usual Suspects](./toolchains.jpg)
 
 <div class="page">&#160;</div>
@@ -10,7 +12,6 @@
 mvn toolchains:display-discovered-jdk-toolchains
 ```
 ```
-[INFO] 
 [INFO] ------------------< org.apache.maven:standalone-pom >-------------------
 [INFO] Building Maven Stub Project (No POM)
 [INFO] --------------------------------[ pom ]---------------------------------
@@ -39,7 +40,6 @@ mvn toolchains:display-discovered-jdk-toolchains
 [INFO] Total time:  0.700 s
 [INFO] Finished at: 2026-02-02T15:30:45+01:00
 [INFO] ------------------------------------------------------------------------
-
 ``` 
 
 <div class="page">&#160;</div>
@@ -76,7 +76,25 @@ pom.xml
 
 # [ToolchainDiscoverer.java](https://github.com/apache/maven-toolchains-plugin/blob/master/src/main/java/org/apache/maven/plugins/toolchain/jdk/ToolchainDiscoverer.java)
 
-## from 3rd-party tools
+<table border="0"><tr valign="top"><td width="40%">
+
+## Windows
+* ``C:\Program Files\Java``
+* ``%USERPROFILE%\scoop\apps``
+
+## MacOS
+* ``/Library/Java/JavaVirtualMachines``
+* ``~/Library/Java/JavaVirtualMachines``
+
+## Linux
+* ``/opt/java``
+* ``/usr/java``
+* ``/usr/jdk``
+* ``/usr/lib/jvm``
+
+</td><td width="40%">
+
+## From 3rd Party Tools
 * ``~/.jdks``
 * ``~/.m2/jdks``
 * ``~/.sdkman/candidates/java``
@@ -86,19 +104,7 @@ pom.xml
 * ``~/.asdf/installs``
 * ``~/.jabb/jdk``
 
-## macOS
-* ``/Library/Java/JavaVirtualMachines``
-* ``~/Library/Java/JavaVirtualMachines``
-
-## Windows
-* ``C:\Program Files\Java``
-* ``%USERPROFILE%\scoop\apps``
-
-## Linux
-* ``/usr/jdk``
-* ``/usr/java``
-* ``/opt/java``
-* ``/usr/lib/jvm``
+</td></tr></table>
 
 <div class="page">&#160;</div>
 
