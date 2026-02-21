@@ -76,8 +76,6 @@ pom.xml
 
 # [ToolchainDiscoverer.java](https://github.com/apache/maven-toolchains-plugin/blob/master/src/main/java/org/apache/maven/plugins/toolchain/jdk/ToolchainDiscoverer.java)
 
-<table border="0"><tr valign="top"><td width="40%">
-
 ## Windows
 * ``C:\Program Files\Java``
 * ``%USERPROFILE%\scoop\apps``
@@ -92,8 +90,6 @@ pom.xml
 * ``/usr/jdk``
 * ``/usr/lib/jvm``
 
-</td><td width="40%">
-
 ## From 3rd Party Tools
 * ``~/.jdks``
 * ``~/.m2/jdks``
@@ -104,9 +100,6 @@ pom.xml
 * ``~/.asdf/installs``
 * ``~/.jabb/jdk``
 
-</td></tr></table>
-
-<div class="page">&#160;</div>
 
 # [JDK Standard Toolchain](https://maven.apache.org/plugins/maven-toolchains-plugin/toolchains/jdk.html)
 ```
