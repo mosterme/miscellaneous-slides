@@ -12,8 +12,6 @@
 mvn toolchains:display-discovered-jdk-toolchains
 ```
 ```
-[INFO] ------------------< org.apache.maven:standalone-pom >-------------------
-[INFO] Building Maven Stub Project (No POM)
 [INFO] --------------------------------[ pom ]---------------------------------
 [INFO] 
 [INFO] --- toolchains:3.2.0:display-discovered-jdk-toolchains (default-cli) @ standalone-pom ---
@@ -34,11 +32,6 @@ mvn toolchains:display-discovered-jdk-toolchains
 [INFO]       runtime.version: 25.0.1+8-Debian-1deb13u1
 [INFO]       vendor: Debian
 [INFO]       lts: true
-[INFO] ------------------------------------------------------------------------
-[INFO] BUILD SUCCESS
-[INFO] ------------------------------------------------------------------------
-[INFO] Total time:  0.700 s
-[INFO] Finished at: 2026-02-02T15:30:45+01:00
 [INFO] ------------------------------------------------------------------------
 ``` 
 
@@ -100,6 +93,7 @@ pom.xml
 * ``~/.asdf/installs``
 * ``~/.jabb/jdk``
 
+<div class="page">&#160;</div>
 
 # [JDK Standard Toolchain](https://maven.apache.org/plugins/maven-toolchains-plugin/toolchains/jdk.html)
 ```
