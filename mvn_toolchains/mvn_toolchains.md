@@ -12,8 +12,6 @@
 mvn toolchains:display-discovered-jdk-toolchains
 ```
 ```
-[INFO] --------------------------------[ pom ]---------------------------------
-[INFO] 
 [INFO] --- toolchains:3.2.0:display-discovered-jdk-toolchains (default-cli) @ standalone-pom ---
 [INFO] Found 2 possible jdks: [/usr/lib/jvm/java-25-openjdk-amd64, /usr/lib/jvm/java-21-openjdk-amd64]
 [INFO] Discovered 2 JDK toolchains:
